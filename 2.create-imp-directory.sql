@@ -1,0 +1,1 @@
+create or replace DIRECTORY IMP_DIR as '/opt/oracle/scripts/setup/imp_dir';
